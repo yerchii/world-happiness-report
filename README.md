@@ -14,7 +14,8 @@ This project analyzes global happiness trends using data from the World Happines
 - `data/` – optional CSV files
 
 ## 📖 Related Medium Article:
-[Read the full article here](https://medium.com/...) *(insert your Medium link once published)*
+[Read the full article on Medium](https://medium.com/@oyerchenko/9-years-of-global-happiness-who-got-happier-who-didnt-3c8d5a338ee1)
+
 
 ---
 
